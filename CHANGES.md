@@ -1,3 +1,7 @@
+## 0.6.0 (2018-06-03)
+* Fix build with `-unsafe-string`
+* Remove various build warnings in `jbuilder --dev` mode
+
 ## 0.5.0 (2017-05-25)
 * Split into 2 toplevel packages: ezjsonm and ezjsonm-lwt
 * Build with jbuilder
